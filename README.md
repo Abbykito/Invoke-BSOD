@@ -1,0 +1,1 @@
+The file it made to triiger Blue screen of Death for windows Forcing machine to restart. Scenario of usage we have SCM images running as Local system but we are not able to restart force. Made for authorized enviroment 
